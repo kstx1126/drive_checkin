@@ -2,7 +2,7 @@ name: Action
 
 on:
   schedule:
-    - cron: 30 16 * * *
+    - cron: 15 16 * * *
   workflow_dispatch:
 
 jobs:
